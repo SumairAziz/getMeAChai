@@ -1,0 +1,17 @@
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  viewBox="0 0 24 24"
+  width="100"
+  height="100"
+>
+  <defs>
+    <linearGradient id="grad1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style={{ stopColor: 'rgb(255,255,0)', stopOpacity: 1 }} />
+      <stop offset="100%" style={{ stopColor: 'rgb(255,0,0)', stopOpacity: 1 }} />
+    </linearGradient>
+  </defs>
+  <polygon
+    fill="url(#grad1)"
+    points="12,2 15.09,8.26 22,9.27 17,14.14 18.18,21.02 12,17.77 5.82,21.02 7,14.14 2,9.27 8.91,8.26"
+  />
+</svg>
